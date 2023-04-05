@@ -2,19 +2,19 @@
 
 # GPU BHAI Feature
 
+On Termux/Terminal emulator type:
 
-  |> su -c GPU1 | Turn ON GPU performance mode
+
+   su -c GPU1 | Turn ON GPU performance mode
   
   
   
-  |> su -c GPU0 | Turn OFF GPU performance mode
+   su -c GPU0 | Turn OFF GPU performance mode
   
 
 
 
 [•]  Follow @bintang774 on Github  [•]
-###################################
-###################################
 
  
 [?] INFO
