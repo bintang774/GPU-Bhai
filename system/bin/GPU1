@@ -5,18 +5,10 @@ echo ===================================
 echo  Turning ON GPU Performance MODE...
 echo ===================================
 sleep 1
-echo  > Wait...
+echo Wait...
 sleep 2
 setprop sys.hwc.gpu_perf_mode 1
-echo Turn ON GPU Performance mode | DONE
-sleep 1
 setprop debug.hwui.renderer vulkan
 setprop debug.performance.tuning 1
 setprop hw3d.force 1
-echo Apply all tweaks and set rendering to vulkan | DONE
-echo deadline > /sys/block/mmcblk0/queue/scheduler
-echo deadline > /sys/block/mmcblk1/queue/scheduler
-echo deadline > /sys/block/sda/queue/scheduler
-echo deadline > /sys/block/sdb/queue/scheduler
-echo deadline > /sys/block/sdc/queue/scheduler
-echo > [√] ALL DONE - Lets Play A Game!
+echo DONE - Lets Play A Game!
