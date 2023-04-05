@@ -14,10 +14,9 @@ On Termux/Terminal emulator type:
 
 
 
-[•]  Follow @bintang774 on Github  [•]
 
  
-[?] INFO
+# [?] INFO
 
   Release: 7/04/2023
   
@@ -29,7 +28,7 @@ On Termux/Terminal emulator type:
   
   Publisher: @GudangToenixz 
   
-  Note:
+  # Note
   
   [/] Combo with RiProG A.I for best performance 
   
