@@ -1,7 +1,6 @@
-###################################
-###################################
 
-© GPU Bhai Feature 
+
+#GPU Bhai Feature 
 
 
   |> su -c GPU1 | Turn ON GPU performance mode
@@ -33,3 +32,6 @@
   [!] For Vulkan Supported device (GPU1) 
 
   
+  #Download Module
+  
+  Link (Mediafire) : https://www.mediafire.com/file/ac06eccao579ylb/[V1]+GPU+Bhai🔥+.zip/file
