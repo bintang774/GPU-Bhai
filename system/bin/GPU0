@@ -5,19 +5,10 @@ echo ===================================
 echo  Turning Off GPU Performance MODE...
 echo ===================================
 sleep 1
-echo > Wait...
+echo  Wait...
 sleep 2
 setprop sys.hwc.gpu_perf_mode 0
-echo Turn OFF GPU performance mode | DONE
-sleep 1
 setprop debug.hwui.renderer skiagl
 setprop debug.performance.tuning 0
 setprop hw3d.force 0
-echo  Change Renderer to SkiaGL | DONE
-sleep 1
-echo cfq > /sys/block/mmcblk0/queue/scheduler
-echo cfq > /sys/block/mmcblk1/queue/scheduler
-echo cfq > /sys/block/sda/queue/scheduler
-echo cfq > /sys/block/sdb/queue/scheduler
-echo cfq > /sys/block/sdc/queue/scheduler
-echo > [√] ALL DONE
+echo DONE
