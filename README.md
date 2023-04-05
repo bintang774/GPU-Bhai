@@ -20,9 +20,13 @@ On Termux/Terminal emulator type:
 [?] INFO
 
   Release: 7/04/2023
+  
   Updated: -
-  Version: V1.0 
+  
+  Version: V1.0
+  
   Developer: @bintang774 GitHub/Telegram
+  
   Publisher: @GudangToenixz 
   
   Note:
