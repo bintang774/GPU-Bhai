@@ -1,6 +1,6 @@
 
 
-#GPUBHAI-Feature
+# GPU BHAI Feature
 
 
   |> su -c GPU1 | Turn ON GPU performance mode
