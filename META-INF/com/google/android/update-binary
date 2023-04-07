@@ -36,5 +36,5 @@ ui_print "================================"
 ui_print ""
 
 install_module
-ui_print " [!] Version 1.0 7/04/2023 "
+ui_print " Powered by AtlasEngine "
 exit 0
